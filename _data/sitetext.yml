@@ -54,22 +54,26 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Intuit"
+        subtitle: "Business Data Analyst Intern"
         year: "Jun. 2024 - Aug. 2024"
         desc: "Incoming Business Data Analyst Intern at Turbo Tax. Excited to dive into the world of data at Intuit!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "University of Chicago"
+        subtitle: "Data Science Consultant"
         year: "Mar. 2024 - Jun. 2024"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Kearney"
-        year: "June 2023 - Septem"
+        subtitle: "Research Analyst"
+        year: "Jun. 2023 - Sep. 2023"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Yonsei University Data Science Lab"
+        subtitle: "Research Assistant"
+        year: "Mar. 2023 – Aug. 2023"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
